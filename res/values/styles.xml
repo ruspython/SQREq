@@ -1,0 +1,15 @@
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Light" />
+    <style name="button" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/button</item>
+        <item name="android:layout_marginTop">1dp</item>
+        <item name="android:layout_marginBottom">5dp</item>
+    </style>
+
+    <style name="myBackgroundStyle" parent="android:Theme.Holo.Dialog">
+        <item name="android:textColor">#eeffee</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
